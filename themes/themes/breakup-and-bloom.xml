@@ -1,0 +1,2579 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- SEO Improvements -->
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="robots" content="index, follow" />
+<meta name="description" content="Breakup & Bloom: From heartbreak to healing – and blooming beyond. Empowering breakup recovery, self-love, and emotional healing." />
+<meta name="keywords" content="breakup recovery, healing after breakup, self love, emotional growth, personal healing, moving on, heartbreak advice, breakup support" />
+<meta name="author" content="L.M. Kelly" />
+
+<!-- Canonical URL -->
+<link rel="canonical" href="https://breakupandbloom.blogspot.com/" />
+
+<!-- General Meta Tags -->
+<meta name="description" content="Breakup & Bloom offers empowering stories, practical tools, and guidance for healing, self-discovery, and growth after heartbreak. Begin your journey to bloom beyond the pain." />
+<meta name="keywords" content="breakup healing, heartbreak recovery, emotional healing, personal growth, self-discovery after breakup, get ex back, relationship advice, moving on, self-worth, healing journey" />
+
+<!-- Open Graph (for Facebook, LinkedIn, etc.) -->
+<meta property="og:title" content="Breakup & Bloom" />
+<meta property="og:description" content="Tools, stories, and healing after heartbreak. Bloom into your next chapter." />
+<meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd1VL7VEhOJtyKkKzMlXh2gWOuHL-wJWw4XsHLtunwAS1VgZ_rDGSvRPKuagkOxyAw_xLCDmEibCNPZODB1rUDWkZ4-fhRglQ8g4MwybtFvyZnWPRKGlDAQi2j0wAH8fq4x2HICnvB-B-jRl2WfGN2sP9xw6649XvgYUjC0-YV76puUFM/s1600/Breakup-and-bloom-by-l-m-kelly.png" />
+<meta property="og:url" content="https://www.breakupandbloom.com" />
+<meta property="og:type" content="website" />
+
+<!-- Pinterest -->
+<meta name="pinterest:site" content="@breakupandbloom" />
+<link rel="me" href="https://www.pinterest.com/breakupandbloom" />
+
+<!-- YouTube Channel -->
+<link rel="me" href="https://www.youtube.com/channel/UCB-64VZQGr1MeZ0xZw8d-Xg" />
+
+<!-- TikTok Profile -->
+<link rel="me" href="https://www.tiktok.com/@breakupandbloom" />
+
+<!-- Favicon -->
+<link rel="icon" href="https://yourfaviconlink.com/favicon.ico" type="image/x-icon" />
+
+
+<!-- Favicon -->
+<link rel="icon" href="https://drive.google.com/file/d/1pUpXDBbZtjpKcDMm6zAFQKqH2O6U_I5H/view?usp=drive_link" type="image/x-icon" /> <!-- Replace with actual icon -->
+<!-- Theme Color -->
+<meta name="theme-color" content="#fff5f8" />
+
+<!-- Structured Data (JSON-LD Schema) -->
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Breakup & Bloom",
+  "url": "https://www.breakupandbloom.com",
+  "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd1VL7VEhOJtyKkKzMlXh2gWOuHL-wJWw4XsHLtunwAS1VgZ_rDGSvRPKuagkOxyAw_xLCDmEibCNPZODB1rUDWkZ4-fhRglQ8g4MwybtFvyZnWPRKGlDAQi2j0wAH8fq4x2HICnvB-B-jRl2WfGN2sP9xw6649XvgYUjC0-YV76puUFM/s1600/Breakup-and-bloom-by-l-m-kelly.png",
+  "sameAs": [
+    "https://www.pinterest.com/breakupandbloom",
+    "https://www.youtube.com/channel/UCB-64VZQGr1MeZ0xZw8d-Xg",
+    "https://www.tiktok.com/@breakupandbloom"
+  ],
+  "description": "Tools, stories, and healing after heartbreak. Bloom into your next chapter."
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "name": "Breakup & Bloom",
+  "url": "https://breakupandbloom.blogspot.com/",
+  "description": "From heartbreak to healing – and blooming beyond. This blog offers empowering insghtis ,educational content, personal improvement startegies, and resources for anyone navigating emotional recovery,self improvement, growth.",
+  "author": {
+    "@type": "Person",
+    "name": "L.M. Kelly"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Lynscal",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://your-logo-url.png"
+    }
+  }
+}
+</script>
+
+<!-- SEO-Optimized Meta Tags for Dropdown Menu Page -->
+<meta name="description" content="Add a clean, responsive horizontal dropdown menu to your Blogger site using ddsmoothmenu. Fully customizable, lightweight, and mobile-friendly navigation." />
+<meta name="keywords" content="responsive dropdown menu, Blogger navigation menu, ddsmoothmenu, horizontal menu, mobile navigation, Blogger responsive design, easy Blogger menu" />
+<meta name="author" content="Breakup & Bloom" />
+
+<title>Responsive Dropdown Menu for Blogger — Easy, Lightweight & Mobile-Friendly</title>
+
+
+<!-- Stylesheets -->
+<link rel="stylesheet" href="https://sites.google.com/site/addinblogger/how-to-add-in-blogger/ddsmoothmenu.css" type="text/css">
+<link rel="stylesheet" href="https://sites.google.com/site/addinblogger/how-to-add-in-blogger/ddsmoothmenu-v.css" type="text/css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<!-- Corrected b:if syntax for Blogger -->
+<b:if cond='data:blog.pageType == "index" or data:blog.pageType == "item" or data:blog.pageType == "static_page"'>
+  <link rel="icon" href="https://yourfaviconlink.com/favicon.ico" type="image/x-icon">
+</b:if>
+
+  <style>
+/* Limit blog width and center */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#outer-wrapper, .main-wrapper, .content-wrapper, .blog-posts, .post, .blog-post {
+  max-width: 1100px; /* Desktop max width */
+  margin: 0 auto;    /* Center horizontally */
+  padding: 0 20px;   /* Space on small screens */
+  box-sizing: border-box;
+}
+
+/* Responsive scaling for tablets and phones */
+@media screen and (max-width: 1024px) {
+  #outer-wrapper, .main-wrapper, .content-wrapper {
+    max-width: 90%;
+    padding: 0 16px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  #outer-wrapper, .main-wrapper, .content-wrapper {
+    max-width: 100%;
+    padding: 0 12px;
+  }
+}
+
+    body {
+
+      font-family: 'Georgia', serif;
+
+      background-color: #fdf6f0;
+
+      color: #333;
+
+      margin: 0;
+
+      padding: 0;
+
+    }
+
+    h1, h2, h3 {
+
+      font-family: 'Playfair Display', serif;
+
+      color: #222;
+
+    }
+
+    a {
+
+      color: #d16a7e;
+
+      text-decoration: none;
+
+    }
+
+    a:hover {
+
+      text-decoration: underline;
+
+    }
+
+    .post-body {
+
+      padding: 20px;
+
+      background-color: #fff;
+
+      border-radius: 8px;
+
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+
+    }
+
+    .header, .footer, .sidebar {
+
+      background-color: #fbeaea;
+
+      padding: 15px;
+
+    }
+
+    img {
+
+      max-width: 100%;
+
+      height: auto;
+
+    }/* Modern responsive search bar */
+.search-container {
+  margin: 20px 0 0 20px;
+  padding: 0 20px;
+  max-width: 100%;
+}
+
+.search-form {
+  display: flex;
+  max-width: 400px;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  overflow: hidden;
+  background-color: #fff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.search-form input[type="text"] {
+  flex: 1;
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  outline: none;
+}
+
+.search-form button {
+  background-color: #333;
+  color: white;
+  padding: 10px 14px;
+  border: none;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.search-form button:hover {
+  background-color: #555;
+}
+
+.search-form i {
+  font-size: 16px;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .search-container {
+    margin: 15px auto;
+    padding: 0 10px;
+  }
+
+  .search-form {
+    max-width: 100%;
+  }
+}
+
+
+  </style>
+
+</b:if>
+  <!-- Basic Meta Tags -->
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="index, follow, noarchive, nosnippet, noimageindex, noodp, noydir" />
+<meta name="description" content="Your blog's short description with targeted keywords" />
+  <!-- Canonical URL to avoid duplicate content issues -->
+
+<link rel="canonical" href="https://relationshipswithlmkelly.blogspot.com/" />
+
+<!-- Favicon -->
+<link rel="icon" href="https://drive.google.com/uc?export=view&id=1pUpXDBbZtjpKcDMm6zAFQKqH2O6U_I5H" type="image/x-icon" />
+<link rel="shortcut icon" href="https://drive.google.com/uc?export=view&id=1pUpXDBbZtjpKcDMm6zAFQKqH2O6U_I5H" type="image/x-icon" />
+<link rel="apple-touch-icon" href="https://drive.google.com/uc?export=view&id=1fFjpsY5POcBm9wrD6fsvHVn3SybjM4Sr" />
+
+<meta name="keywords" content="keyword1, keyword2, keyword3, breakup healing, self-improvement, empowerment" />
+<meta name="author" content="L.M. Kelly" />
+<meta name="robots" content="index, follow" />
+
+<!-- Open Graph (for social media sharing) -->
+<meta property="og:title" content="Breakup & Bloom - Healing & Growth" />
+<meta property="og:description" content="From heartbreak to healing and blooming beyond, empowering your journey." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://relationshipswithlmkelly.blogspot.com/" />
+<meta property="og:image" content="https://yourdomain.com/path-to-image.jpg" />
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Breakup & Bloom - Healing & Growth" />
+<meta name="twitter:description" content="From heartbreak to healing and blooming beyond, empowering your journey." />
+<meta name="twitter:image" content="https://yourdomain.com/path-to-image.jpg" />
+  <meta name="description" content="Breakup & Bloom is your sanctuary for healing after heartbreak. Find guidance, resources, and inspiration to rediscover yourself and bloom beautifully." />
+<meta name="keywords" content="breakup healing, heartbreak recovery, emotional growth, self-love, no contact, healing after breakup, L.M. Kelly" />
+<meta name="author" content="L.M. Kelly" />
+<meta property="og:title" content="Breakup & Bloom by L.M. Kelly" />
+<meta property="og:description" content="From heartbreak to healing... and blooming beyond. Explore a healing journey designed for your soul." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://yourblogurl.com" />
+<meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd1VL7VEhOJtyKkKzMlXh2gWOuHL-wJWw4XsHLtunwAS1VgZ_rDGSvRPKuagkOxyAw_xLCDmEibCNPZODB1rUDWkZ4-fhRglQ8g4MwybtFvyZnWPRKGlDAQi2j0wAH8fq4x2HICnvB-B-jRl2WfGN2sP9xw6649XvgYUjC0-YV76puUFM/s1600/Breakup-and-bloom-by-l-m-kelly.png" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Breakup &amp; Bloom – From Heartbreak to Healing</title>
+  <meta name="description" content="Breakup &amp; Bloom – Healing from heartbreak and growing beyond. Discover your path to self-improvement, emotional recovery, and empowerment after a breakup.">
+  <meta name="keywords" content="breakup recovery, healing from breakup, self-improvement, emotional healing, empowering after heartbreak, personal growth, breakups, relationships">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Breakup &amp; Bloom – From Heartbreak to Healing">
+  <meta property="og:description" content="Start your healing journey with Breakup &amp; Bloom, where we guide you through overcoming heartbreak, embracing self-improvement, and blooming into a better version of yourself.">
+  <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd1VL7VEhOJtyKkKzMlXh2gWOuHL-wJWw4XsHLtunwAS1VgZ_rDGSvRPKuagkOxyAw_xLCDmEibCNPZODB1rUDWkZ4-fhRglQ8g4MwybtFvyZnWPRKGlDAQi2j0wAH8fq4x2HICnvB-B-jRl2WfGN2sP9xw6649XvgYUjC0-YV76puUFM/s1600/Breakup-and-bloom-by-l-m-kelly.png">
+  <meta property="og:url" content="https://www.breakupandbloom.com">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:title" content="Breakup &amp; Bloom – From Heartbreak to Healing">
+  <meta name="twitter:description" content="Discover healing strategies and empowering insights to help you recover from a breakup and bloom into a new version of yourself.">
+  <meta name="twitter:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd1VL7VEhOJtyKkKzMlXh2gWOuHL-wJWw4XsHLtunwAS1VgZ_rDGSvRPKuagkOxyAw_xLCDmEibCNPZODB1rUDWkZ4-fhRglQ8g4MwybtFvyZnWPRKGlDAQi2j0wAH8fq4x2HICnvB-B-jRl2WfGN2sP9xw6649XvgYUjC0-YV76puUFM/s1600/Breakup-and-bloom-by-l-m-kelly.png">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <!-- Fonts & Styles -->
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Dancing+Script&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --main-bg: #f5f5f5;
+      --accent-bg: #f7e3d7;
+      --accent-dark: #9b7d65;
+      --accent-deep: #563c27;
+      --text-dark: #333;
+      --text-muted: #666;
+      --white: #fff;
+    }/* Hero Intro Styling */
+.hero-intro {
+  background: linear-gradient(to right, #fef6f9, #f8fbfc); /* soft blush-pink and pale blue */
+  padding: 40px 20px;
+  text-align: center;
+  margin-top: 0;
+}
+
+.hero-intro h2 {
+  font-size: 2rem;
+  color: #c94f7c; /* soft rose shade */
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+
+.hero-intro p {
+  font-size: 1.1rem;
+  max-width: 700px;
+  margin: 0 auto;
+  color: #444;
+  line-height: 1.6;
+}
+
+/* Intro Section Styling */
+.intro-section {
+  background-color: #ffffff;
+  padding: 60px 20px;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+}
+
+.intro-content {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.intro-content h3 {
+  font-size: 1.8rem;
+  color: #333;
+  margin-bottom: 15px;
+  font-weight: 500;
+}
+
+.intro-content p {
+  font-size: 1.05rem;
+  color: #555;
+  line-height: 1.7;
+}
+
+/* Responsive Tweaks */
+@media screen and (max-width: 768px) {
+  .hero-intro h2 {
+    font-size: 1.5rem;
+  }
+
+  .intro-content h3 {
+    font-size: 1.4rem;
+  }
+}
+    body {
+      font-family: 'Open Sans', sans-serif;
+      background-color: var(--main-bg);
+      margin: 0;
+      padding: 0;
+      color: var(--text-dark);
+      line-height: 1.6;
+    }
+    header {
+      background-color: var(--accent-bg);
+      padding: 30px 20px;
+      text-align: center;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    }
+    header h1 {
+      font-family: 'Dancing Script', cursive;
+      font-size: 48px;
+      margin: 0;
+      color: var(--accent-deep);
+      letter-spacing: 1px;
+    }
+    header p {
+      font-size: 20px;
+      color: var(--accent-dark);
+      margin-top: 8px;
+    }
+    nav {
+      background-color: var(--accent-dark);
+      text-align: center;
+      padding: 12px 0;
+    }
+    nav a {
+      color: var(--white);
+      text-decoration: none;
+      padding: 12px 20px;
+      margin: 0 8px;
+      font-size: 18px;
+      border-radius: 4px;
+      transition: background-color 0.3s ease;
+    }
+    nav a:hover {
+      background-color: var(--accent-deep);
+    }
+    .hero-section {
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd1VL7VEhOJtyKkKzMlXh2gWOuHL-wJWw4XsHLtunwAS1VgZ_rDGSvRPKuagkOxyAw_xLCDmEibCNPZODB1rUDWkZ4-fhRglQ8g4MwybtFvyZnWPRKGlDAQi2j0wAH8fq4x2HICnvB-B-jRl2WfGN2sP9xw6649XvgYUjC0-YV76puUFM/s1600/Breakup-and-bloom-by-l-m-kelly.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: scroll;
+  color: var(--white);
+  padding: 100px 20px;
+  text-align: center;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 400px;
+}
+
+    }
+    .hero-section::after {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0, 0, 0, 0.4);
+      z-index: 0;
+    }
+    .hero-section h2,
+    .hero-section p,
+    .cta-button {
+      position: relative;
+      z-index: 1;
+    }
+    .hero-section h2 {
+      font-size: 42px;
+      margin-bottom: 15px;
+      font-weight: 600;
+    }
+    .hero-section p {
+      font-size: 20px;
+      margin-bottom: 30px;
+    }
+    .cta-button {
+      background-color: var(--accent-bg);
+      color: var(--accent-deep);
+      font-size: 18px;
+      padding: 14px 32px;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      text-decoration: none;
+      font-weight: 600;
+      transition: all 0.3s ease;
+    }
+    .cta-button:hover {
+      background-color: var(--accent-dark);
+      color: var(--white);
+    }
+    .content-section {
+      padding: 60px 20px;
+      background-color: var(--white);
+      margin: 20px auto;
+      max-width: 1000px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    }
+    .content-section h3 {
+      font-size: 32px;
+      margin-bottom: 15px;
+      color: var(--accent-deep);
+    }
+    .content-section p {
+      font-size: 17px;
+      color: var(--text-muted);
+    }
+    .footer {
+      background-color: var(--accent-deep);
+      color: var(--white);
+      padding: 25px 20px;
+      text-align: center;
+      font-size: 16px;
+    }
+    .footer a {
+      color: var(--accent-bg);
+      text-decoration: none;
+      margin: 0 5px;
+    }
+    .footer a:hover {
+      text-decoration: underline;
+    }
+    ::-webkit-scrollbar {
+      width: 10px;
+    }
+    ::-webkit-scrollbar-track {
+      background: var(--main-bg);
+    }
+    ::-webkit-scrollbar-thumb {
+      background-color: var(--accent-dark);
+      border-radius: 10px;
+      border: 2px solid var(--main-bg);
+    }
+    @media (max-width: 768px) {
+      header h1 {
+        font-size: 36px;
+      }
+      .hero-section h2 {
+        font-size: 32px;
+      }
+      .content-section {
+        padding: 40px 15px;
+      }
+      nav a {
+        font-size: 16px;
+        margin: 6px 6px;
+      }
+      .cta-button {
+        font-size: 16px;
+        padding: 12px 24px;
+      }
+    }
+    .hero-content {
+
+    position: relative;
+
+    z-index: 1;
+
+    max-width: 700px;
+
+    margin: 0 auto;
+
+    padding-top: 40px;
+
+    background-color: rgba(0, 0, 0, 0.4); /* soft overlay */
+
+    border-radius: 12px;
+
+    padding: 40px 20px;
+
+    color: var(--white);
+
+}
+
+.hero-content h2 {
+
+    font-size: 36px;
+
+    margin-bottom: 15px;
+
+    font-weight: 600;
+
+    line-height: 1.3;
+
+}
+
+.hero-content p {
+
+    font-size: 18px;
+
+    line-height: 1.6;
+
+    color: #fdfdfd;
+
+}
+
+@media (max-width: 768px) {
+
+    .hero-content {
+
+        padding: 30px 15px;
+
+    }
+
+    .hero-content h2 {
+
+        font-size: 28px;
+
+    }
+
+    .hero-content p {
+
+        font-size: 16px;
+
+    }
+
+}
+    .featured-posts-section {
+
+  padding: 60px 20px;
+
+  background-color: var(--accent-bg);
+
+  text-align: center;
+
+}
+
+.featured-posts-section h3 {
+
+  font-size: 32px;
+
+  color: var(--accent-deep);
+
+  margin-bottom: 40px;
+
+}
+
+.featured-grid {
+
+  display: grid;
+
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+
+  gap: 30px;
+
+  max-width: 1000px;
+
+  margin: 0 auto;
+
+}
+
+.featured-post {
+
+  background-color: var(--white);
+
+  padding: 25px;
+
+  border-radius: 12px;
+
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+
+  transition: transform 0.3s ease;
+
+}
+
+.featured-post:hover {
+
+  transform: translateY(-5px);
+
+}
+
+.featured-post h4 {
+
+  font-size: 22px;
+
+  color: var(--accent-deep);
+
+  margin-bottom: 12px;
+
+}
+
+.featured-post h4 a {
+
+  color: inherit;
+
+  text-decoration: none;
+
+}
+
+.featured-post p {
+
+  font-size: 16px;
+
+  color: var(--text-muted);
+
+  line-height: 1.5;
+
+} /* Blooming Resources Section */
+.resources-section {
+  background: #fdf9f9;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.resources-section h3 {
+  font-size: 2em;
+  color: #b6465f;
+  margin-bottom: 10px;
+}
+
+.resources-intro {
+  font-size: 1.1em;
+  color: #555;
+  margin-bottom: 40px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.resources-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 30px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.resource-card {
+  background: #ffffff;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.resource-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+}
+
+.resource-icon {
+  width: 60px;
+  margin-bottom: 15px;
+  transition: transform 0.3s ease;
+}
+
+.resource-icon:hover {
+  transform: scale(1.1);
+}
+
+.resource-card h4 {
+  font-size: 1.1em;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.resource-card p {
+  font-size: 0.95em;
+  color: #666;
+  margin-bottom: 15px;
+  line-height: 1.4;
+}
+
+.download-link {
+  display: inline-block;
+  color: #b6465f;
+  font-weight: bold;
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  transition: border-color 0.3s ease;
+}
+
+.download-link:hover {
+  border-color: #b6465f;
+}
+
+/* Mobile Responsive */
+@media screen and (max-width: 768px) {
+  .resources-grid {
+    grid-template-columns: 1fr;
+  }
+}.healing-path-section {
+
+  background-color: #fef7f9;
+
+  padding: 60px 20px;
+
+  text-align: center;
+
+}
+
+.healing-path-section h3 {
+
+  font-size: 2em;
+
+  color: var(--accent-dark);
+
+  margin-bottom: 10px;
+
+}
+
+.healing-path-section p {
+
+  color: #444;
+
+  font-size: 1.1em;
+
+  max-width: 600px;
+
+  margin: 0 auto 40px;
+
+}
+
+.healing-grid {
+
+  display: flex;
+
+  flex-wrap: wrap;
+
+  gap: 30px;
+
+  justify-content: center;
+
+}
+
+.healing-card {
+
+  background: #fff;
+
+  padding: 30px 20px;
+
+  border-radius: 12px;
+
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+
+  width: 280px;
+
+  transition: transform 0.3s ease;
+
+}
+
+.healing-card:hover {
+
+  transform: translateY(-5px);
+
+}
+
+.healing-link {
+
+  display: inline-block;
+
+  margin-top: 20px;
+
+  background-color: var(--accent-dark);
+
+  color: var(--white);
+
+  padding: 10px 20px;
+
+  border-radius: 6px;
+
+  text-decoration: none;
+
+  font-weight: bold;
+
+  transition: background 0.3s ease;
+
+}
+
+.healing-link:hover {
+
+  background-color: var(--accent-deep);
+
+}/* Community Section Styling */
+.community-section {
+  background-color: #fff0f5;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.community-heading {
+  font-size: 2em;
+  color: #b30059;
+  margin-bottom: 10px;
+}
+
+.community-intro {
+  font-size: 1.1em;
+  max-width: 600px;
+  margin: 0 auto 40px;
+  color: #444;
+}
+
+.testimonial-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+
+.testimonial-card {
+  background: #fff;
+  border-radius: 10px;
+  padding: 25px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  max-width: 320px;
+  text-align: left;
+  transition: transform 0.3s ease;
+}
+
+.testimonial-card:hover {
+  transform: translateY(-5px);
+}
+
+.testimonial-text {
+  font-style: italic;
+  margin-bottom: 12px;
+  color: #666;
+}
+
+.testimonial-name {
+  font-weight: bold;
+  color: #222;
+}
+
+.join-community-btn {
+  display: inline-block;
+  margin-top: 40px;
+  background-color: #b30059;
+  color: #fff;
+  padding: 12px 24px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.join-community-btn:hover {
+  background-color: #8c0044;
+}/* About Author Section */
+.about-author {
+  background: #fdf6f9;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.author-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.author-photo {
+  border-radius: 50%;
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.author-text {
+  max-width: 500px;
+  text-align: left;
+}
+
+.author-text h3 {
+  font-size: 2em;
+  color: #b30059;
+  margin-bottom: 15px;
+}
+
+.author-text p {
+  font-size: 1.1em;
+  color: #444;
+  margin-bottom: 15px;
+}
+
+.learn-more-btn {
+  display: inline-block;
+  margin-top: 10px;
+  background-color: #b30059;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.learn-more-btn:hover {
+  background-color: #8c0044;
+}
+
+@media screen and (max-width: 768px) {
+  .author-container {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .author-text {
+    text-align: center;
+  }/* Breakup & Bloom Footer Styling */
+.bnb-footer {
+  background-color: #fef5f5;
+  padding: 40px 20px;
+  font-family: 'Segoe UI', sans-serif;
+  color: #3a3a3a;
+  line-height: 1.6;
+}
+
+.bnb-footer h3 {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 12px;
+  color: #c6538c;
+}
+
+.bnb-footer p {
+  font-size: 14px;
+  color: #555;
+  margin-bottom: 20px;
+}
+
+.bnb-footer a {
+  color: #555;
+  text-decoration: none;
+  display: block;
+  margin-bottom: 8px;
+  font-size: 14px;
+  transition: 0.2s ease-in-out;
+}
+
+.bnb-footer a:hover {
+  color: #c6538c;
+  text-decoration: underline;
+}
+
+.bnb-footer .section {
+  margin-top: 40px;
+}
+
+.bnb-footer .columns {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 30px;
+  margin-bottom: 30px;
+}
+
+.bnb-footer .column {
+  flex: 1 1 200px;
+  min-width: 220px;
+}
+
+.bnb-footer .social-icons a {
+  display: inline-block;
+  margin-right: 12px;
+  font-size: 15px;
+  color: #c6538c;
+}
+
+.bnb-footer .footer-bottom {
+  border-top: 1px solid #e0caca;
+  padding-top: 15px;
+  font-size: 13px;
+  text-align: center;
+  color: #999;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+  .bnb-footer .columns {
+    flex-direction: column;
+  }
+
+  .bnb-footer .column {
+    margin-bottom: 20px;
+  }
+}/* === Breakup & Bloom Footer Styling === */
+.bnb-footer {
+  background-color: #fef5f5;
+  padding: 40px 20px;
+  font-family: 'Segoe UI', sans-serif;
+  color: #3a3a3a;
+  line-height: 1.6;
+}
+
+.bnb-footer .columns {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 30px;
+  margin-bottom: 30px;
+}
+
+/* Branding Column (Breakup & Bloom) */
+.bnb-footer .column:first-child {
+  text-align: center;
+  flex: 1 1 100%;
+}
+
+.bnb-footer .column:first-child h3 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #c6538c;
+  margin-bottom: 8px;
+}
+
+.bnb-footer .column:first-child h3 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.bnb-footer .column:first-child h3 a:hover {
+  text-decoration: underline;
+}
+
+.bnb-footer .column:first-child p {
+  font-size: 15px;
+  color: #777;
+  font-style: italic;
+  max-width: 320px;
+  margin: 0 auto;
+}
+
+/* All Columns */
+.bnb-footer .column {
+  flex: 1 1 220px;
+  min-width: 200px;
+}
+
+/* Section Titles */
+.bnb-footer h3 {
+  font-size: 18px;
+  font-weight: 600;
+  color: #c6538c;
+  margin-bottom: 12px;
+}
+
+/* Footer Links */
+.bnb-footer a {
+  color: #555;
+  text-decoration: none;
+  display: block;
+  margin-bottom: 8px;
+  font-size: 14px;
+  transition: 0.2s ease-in-out;
+}
+
+.bnb-footer a:hover {
+  color: #c6538c;
+  text-decoration: underline;
+}
+
+/* Social Icons */
+.bnb-footer .social-icons a {
+  display: inline-block;
+  margin-right: 12px;
+  font-size: 15px;
+  color: #c6538c;
+}
+
+/* Footer Bottom Note */
+.bnb-footer .footer-bottom {
+  border-top: 1px solid #e0caca;
+  padding-top: 15px;
+  font-size: 13px;
+  text-align: left;
+  color: #999;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+  .bnb-footer .columns {
+    flex-direction: column;
+    align-items: left;
+  }
+
+  .bnb-footer .column {
+    text-align: left;
+  }
+
+  .bnb-footer .social-icons {
+    justify-content: left;
+  }
+}/* Mobile Responsiveness */
+@media screen and (max-width: 768px) {
+  .hero-section h2,
+  .hero-section p,
+  .intro-section p,
+  .resources-section p,
+  .healing-path-section p {
+    font-size: 1em;
+    padding: 0 15px;
+  }
+
+  .hero-section h2 {
+    font-size: 1.5em;
+    margin-top: 20px;
+  }
+
+  .site-footer {
+    text-align: center;
+    padding: 30px 15px;
+  }
+
+  .footer-links a,
+  .footer-legal a {
+    display: block;
+    margin: 10px 0;
+  }
+
+  .resources-grid {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .resource-card {
+    margin-bottom: 30px;
+    width: 90%;
+  }
+}.contact-page-section {
+  background: #fff8f9;
+  padding: 60px 20px;
+  font-family: 'Segoe UI', sans-serif;
+  color: #4a4a4a;
+}
+
+.contact-header h2 {
+  text-align: center;
+  font-size: 2em;
+  color: #c66c8c;
+}
+
+.contact-intro {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto 30px;
+  font-size: 1.1em;
+  line-height: 1.8;
+}
+
+.contact-quote {
+  font-style: italic;
+  text-align: center;
+  color: #888;
+  margin: 30px auto;
+  max-width: 600px;
+}
+
+.form-wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 0 15px rgba(0,0,0,0.05);
+}
+
+.thank-you-note {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.thank-you-note h3 {
+  color: #c66c8c;
+  margin-bottom: 10px;
+}
+
+.explore-more-links {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 0.95em;
+}
+
+.explore-more-links a {
+  color: #9a4063;
+  text-decoration: underline;
+}
+
+.contact-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin: 40px auto 0;
+  max-width: 600px;
+  padding: 0 20px;
+}
+
+.home-btn, .exit-btn {
+  padding: 12px 20px;
+  background-color: #c66c8c;
+  color: #fff;
+  border: none;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.home-btn:hover, .exit-btn:hover {
+  background-color: #9a4063;
+}.downloads-section {
+
+  background: #fff8f9;
+
+  padding: 60px 20px;
+
+  text-align: center;
+
+  border-top: 1px solid #f1d6db;
+
+}
+
+.download-grid {
+
+  display: grid;
+
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+
+  gap: 30px;
+
+  margin-top: 40px;
+
+}
+
+.download-card {
+
+  background: white;
+
+  border-radius: 12px;
+
+  padding: 25px;
+
+  box-shadow: 0 4px 10px rgba(0,0,0,0.06);
+
+  transition: transform 0.3s ease;
+
+}
+
+.download-card:hover {
+
+  transform: translateY(-5px);
+
+}
+
+.download-icon {
+
+  width: 50px;
+
+  margin-bottom: 20px;
+
+}
+
+.download-link {
+
+  display: inline-block;
+
+  margin-top: 15px;
+
+  background: var(--accent-pink, #f784a6);
+
+  color: white;
+
+  padding: 10px 18px;
+
+  border-radius: 6px;
+
+  text-decoration: none;
+
+  font-weight: 600;
+
+}
+
+.download-link:hover {
+
+  background: #db6e91;
+
+}.community-section {
+  background-color: #f9f7f6; /* soft, calming tone */
+  padding: 40px 20px;
+  text-align: center;
+  margin-top: 40px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.community-section .section-heading {
+  font-size: 1.8rem;
+  color: #3a3a3a;
+  margin-bottom: 12px;
+  font-weight: 600;
+}
+
+.community-section .section-subtext {
+  font-size: 1.1rem;
+  color: #5a5a5a;
+  max-width: 600px;
+  margin: 0 auto 20px auto;
+  line-height: 1.5;
+}
+
+.community-section .cta-button {
+  display: inline-block;
+  background-color: #0b5394;
+  color: white;
+  padding: 12px 28px;
+  font-size: 1rem;
+  border-radius: 25px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.community-section .cta-button:hover {
+  background-color: #084070;
+}
+
+  </style>
+  <script>
+  // Remove duplicate meta tags by name
+  const seen = new Set();
+  document.querySelectorAll("meta[name]").forEach(meta => {
+    const name = meta.getAttribute("name");
+    if (seen.has(name)) {
+      meta.remove();
+    } else {
+      seen.add(name);
+    }
+  });
+
+  // Remove duplicate meta tags by property (Open Graph etc.)
+  const seenProps = new Set();
+  document.querySelectorAll("meta[property]").forEach(meta => {
+    const prop = meta.getAttribute("property");
+    if (seenProps.has(prop)) {
+      meta.remove();
+    } else {
+      seenProps.add(prop);
+    }
+  }/* MENU CORE */
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  background-color: #fff0f5;
+}
+
+nav ul li {
+  position: relative;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  padding: 10px 15px;
+  display: block;
+}
+
+/* DROPDOWN MENU */
+.submenu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: #fff;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  z-index: 1000;
+  transition: all 0.3s ease;
+}
+
+li:hover > .submenu,
+li:focus-within > .submenu {
+  display: block;
+}
+
+.submenu li {
+  white-space: nowrap;
+}
+
+.submenu li a {
+  font-weight: normal;
+}
+
+/* MOBILE RESPONSIVENESS */
+@media (max-width: 768px) {
+  nav ul {
+    flex-direction: column;
+    display: none;
+  }
+
+  nav ul.open {
+    display: flex;
+  }
+
+  .menu-toggle {
+    display: block;
+    cursor: pointer;
+    padding: 10px 15px;
+    background-color: #f7d6e0;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .submenu {
+    position: relative;
+    top: 0;
+    left: 0;
+    box-shadow: none;
+  }
+}
+</script>
+
+</head>
+  <style>
+  /* Section styling */
+  #latest-reads {
+    padding: 40px 20px;
+    background-color: #fefefe;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+  }
+
+  .section-heading {
+    font-size: 1.8em;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+
+  .section-subtext {
+    font-size: 1em;
+    color: #666;
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto 30px;
+  }
+
+  #post-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+    font-family: "Arial", sans-serif;
+  }
+
+  .post-preview {
+    background: #ffffff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: box-shadow 0.2s;
+  }
+
+  .post-preview:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+  }
+
+  .post-preview h3 {
+    font-size: 1.2em;
+    color: #007acc;
+    margin-bottom: 10px;
+  }
+
+  .post-preview p {
+    color: #555;
+    font-size: 0.95em;
+    line-height: 1.5;
+    flex-grow: 1;
+  }
+
+  .read-more {
+    margin-top: 15px;
+    font-weight: bold;
+    color: #007acc;
+    text-decoration: none;
+  }
+
+  .read-more:hover {
+    text-decoration: underline;
+  }
+</style>
+  <style>
+
+  /* Styles the posts container and post cards */
+
+  #post-container {
+
+    display: grid;
+
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+
+    gap: 20px;
+
+    font-family: Arial, sans-serif;
+
+    line-height: 1.5;
+
+    padding: 20px 0;
+
+  }
+
+  .post-preview {
+
+    border: 1px solid #ddd;
+
+    padding: 15px;
+
+    border-radius: 8px;
+
+    background: #fff;
+
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+
+    display: flex;
+
+    flex-direction: column;
+
+    justify-content: space-between;
+
+  }
+
+  .post-preview h3 {
+
+    margin: 0 0 10px;
+
+    font-size: 1.2em;
+
+  }
+
+  .post-preview h3 a {
+
+    text-decoration: none;
+
+    color: #007acc;
+
+  }
+
+  .post-preview p {
+
+    color: #555;
+
+    flex-grow: 1;
+
+  }
+
+  .post-preview a.read-more {
+
+    margin-top: 10px;
+
+    font-weight: bold;
+
+    color: #007acc;
+
+    text-decoration: none;
+
+    align-self: flex-start;
+
+  }
+
+  .post-preview a.read-more:hover {
+
+    text-decoration: underline;
+
+  }/* Mobile (upright) */
+
+@media (max-width: 480px) {
+
+  .container {
+
+    padding: 0 10px;
+
+  }
+
+}
+
+/* Tablets */
+
+@media (min-width: 481px) and (max-width: 1024px) {
+
+  .container {
+
+    padding: 0 20px;
+
+  }
+
+}
+
+/* Desktop */
+
+@media (min-width: 1025px) {
+
+  .container {
+
+    max-width: 1200px;
+
+    padding: 0 40px;
+
+  }* 
+
+  box-sizing: border-box;
+
+}
+
+.clearfix::after {
+
+  content: "";
+
+  clear: both;
+
+  display: table;
+
+}
+
+}body {
+
+  overflow-x: hidden;
+
+}
+
+</style>
+<body>
+  <div class="menu-toggle">☰ Menu</div>
+  <script>
+  // Fetch posts from Blogger API and display them
+  function fetchBloggerPosts() {
+      const apiKey = 'AIzaSyCiiDLVQPcXbml7_agLscwv9GqK9tCdu5A'; // Your API key
+      const blogId = '7056291054171208801'; // Your blog ID
+      const url = `https://www.googleapis.com/blogger/v3/blogs/${blogId}/posts?key=${apiKey}&maxResults=6`;
+
+      fetch(url)
+          .then(response => response.json())
+          .then(data => {
+              const container = document.getElementById('post-container');
+              container.innerHTML = '';
+
+              if (data.items && data.items.length > 0) {
+                  data.items.forEach(post => {
+                      const excerpt = post.content.replace(/<[^>]+>/g, '').substring(0, 150) + '...';
+                      const postHTML = `
+                          <div class="post-preview">
+                              <h3><a href="${post.url}" target="_blank" rel="noopener">${post.title}</a></h3>
+                              <p>${excerpt}</p>
+                              <a href="${post.url}" target="_blank" rel="noopener" class="read-more">Read more</a>
+                          </div>
+                      `;
+                      container.innerHTML += postHTML;
+                  });
+              } else {
+                  container.innerHTML = '<p>No posts found.</p>';
+              }
+          })
+          .catch(error => {
+              console.log('Error fetching posts:', error);
+              document.getElementById('post-container').innerText = 'Failed to load posts.';
+          });
+  }
+
+  // Run fetch after the page loads
+  window.onload = fetchBloggerPosts;
+</script>
+  
+  <script type="text/javascript">
+  function googleTranslateElementInit() {
+    new google.translate.TranslateElement({pageLanguage: 'en', autoDisplay: false}, 'google_translate_element');
+  }
+
+  // Detect browser language and trigger translation if different from English
+  window.onload = function() {
+    var userLang = navigator.language || navigator.userLanguage;
+    userLang = userLang.substring(0,2); // get first two chars
+    if(userLang !== 'en') {
+      var select = document.querySelector('#google_translate_element select');
+      if(select) {
+        select.value = userLang;
+        select.dispatchEvent(new Event('change'));
+      }
+    }
+  }
+</script>
+
+<div id="google_translate_element" style="display:none;"></div>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+  <header>
+    <script type="application/ld+json">
+
+{
+
+  "@context": "https://schema.org",
+
+  "@type": "Blog",
+
+  "name": "Breakup & Bloom",
+
+  "url": "https://relationshipswithlmkelly.blogspot.com/",
+
+  "description": "From heartbreak to healing and blooming beyond, empowering your journey.",
+
+  "author": {
+
+    "@type": "Person",
+
+    "name": "L.M. Kelly"
+
+  },
+
+  "publisher": {
+
+    "@type": "Organization",
+
+    "name": "Lynscal Brand",
+
+    "logo": {
+
+      "@type": "ImageObject",
+
+      "url": "https://yourdomain.com/path-to-logo.jpg"
+
+    }
+
+  }
+
+}
+
+</script>
+    <h1>Breakup &amp; Bloom</h1>
+    <p>From Heartbreak to Healing ...and Blooming Beyond</p>
+    <style>
+
+  #post-container {
+
+    display: grid;
+
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+
+    gap: 20px;
+
+    font-family: Arial, sans-serif;
+
+    line-height: 1.5;
+
+    padding: 20px 0;
+
+  }
+
+  .post-preview {
+
+    border: 1px solid #ddd;
+
+    padding: 15px;
+
+    border-radius: 8px;
+
+    background: #fff;
+
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+
+    display: flex;
+
+    flex-direction: column;
+
+    justify-content: space-between;
+
+  }
+
+  .post-preview h3 {
+
+    margin: 0 0 10px;
+
+    font-size: 1.2em;
+
+  }
+
+  .post-preview h3 a {
+
+    text-decoration: none;
+
+    color: #007acc;
+
+  }
+
+  .post-preview p {
+
+    color: #555;
+
+    flex-grow: 1;
+
+  }
+
+  .post-preview a.read-more {
+
+    margin-top: 10px;
+
+    font-weight: bold;
+
+    color: #007acc;
+
+    text-decoration: none;
+
+    align-self: flex-start;
+
+  }
+
+  .post-preview a.read-more:hover {
+
+    text-decoration: underline;
+
+  }<style>
+
+.search-form {
+
+  display: flex;
+
+  align-items: center;
+
+  margin: 20px 0 0 20px; /* spacing from the cover image */
+
+}
+
+.search-form input[type='text'] {
+
+  padding: 8px;
+
+  border: 1px solid #ccc;
+
+  border-radius: 4px 0 0 4px;
+
+  width: 200px;
+
+}
+
+.search-form button {
+
+  padding: 8px 12px;
+
+  background-color: #333;
+
+  color: white;
+
+  border: none;
+
+  border-radius: 0 4px 4px 0;
+
+  cursor: pointer;
+
+}img, video, iframe {
+
+  max-width: 100%;
+
+  height: auto;
+
+}
+
+body {
+
+  overflow-x: hidden;
+
+}.cover-container {
+
+  background-image: url('your-image.jpg');
+
+  background-size: cover;
+
+  background-position: center;
+
+  background-repeat: no-repeat;
+
+  width: 100%;
+
+  height: 300px; /* or adjust */
+
+}.cover-image {
+
+  width: 100%;
+
+  max-width: 100%;
+
+  height: auto;
+
+  display: block;
+
+  object-fit: cover;
+
+}
+
+</style>
+    <!-- Google Fonts -->
+
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Open+Sans&display=swap" rel="stylesheet">
+
+<!-- Font Awesome Icons -->
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" integrity="sha512-K2zF8Ix...==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  </header>
+  
+  <div class="hero-section">
+  <a href="https://breakupandbloom.blogspot.com/2023/03/healing-from-heartbreak-guide-to.html" class="cta-button repositioned">Get Started</a>
+</div>
+
+<!-- Search Form -->
+
+<form expr:action='data:blog.searchUrl' method='get' class='search-form' role="search" aria-label="Site Search">
+
+  <input type='text' name='q' placeholder='Search...' aria-label='Search field'>
+
+  <button type='submit' aria-label='Submit search'><i class='fas fa-search'></i></button>
+
+</form>
+<!-- Moved heading and paragraph outside hero for small screens -->
+<div class="hero-intro">
+  <h2 style="text-align: center;">Breakups Hurt, But So Does Staying Broken</h2>
+    <p>This isn’t just a blog. It’s your sacred pause,where heartbreak meets healing and your story begins again. Stay a while, and let’s find your re-invention, strength, peace, and power together.</p>
+</div>
+  <section class="intro-section">
+
+  <div class="intro-content">
+
+    <h3>You're not broken, You're breaking open</h3>
+
+    <p>This space is for anyone who's ever felt lost after a breakup, yet still dares to believe in their comeback. Here, you'll find healing, self-discovery, and the kind of strength that quietly rebuilds your life. Start exploring, stay as long as you need, and bloom at your pace.</p>
+
+  </div>
+
+</section>
+  <section class="featured-posts-section" id="featured">
+
+  <h3>Featured Healing Guides</h3>
+
+  <div class="featured-grid">
+
+    <article class="featured-post">
+
+      <h4><a href="#">How to Emotionally Detach After a Breakup</a></h4>
+
+      <p>Master the art of letting go with compassionate tools that guide you through emotional detachment and inner peace.</p>
+
+    </article>
+
+    <article class="featured-post">
+
+      <h4><a href="#">Reclaiming Your Power in 7 Steps</a></h4>
+
+      <p>Take back your energy and rebuild your self-worth after heartbreak with this no-fluff guide to self-reinvention.</p>
+
+    </article>
+
+    <article class="featured-post">
+
+      <h4><a href="#">The Ex Effect: Why You're Still Thinking About Them</a></h4>
+
+      <p>Understand the psychology behind lingering attachment and how to break free from emotional patterns.</p>
+
+    </article>
+
+  </div>
+
+</section>
+  <section class="healing-path-section" id="healing-path">
+  <h3>Your Healing Path</h3>
+  <p>You're not just moving on, you're moving inward, upward, and forward. Choose your path below to begin.</p>
+
+  <div class="healing-grid">
+    <div class="healing-card fade-up">
+      <h4>The Healing Path</h4>
+      <p>Gentle guidance and real-talk advice for the days that feel heavy. You’re not alone here.</p>
+      <a href="/blog/healing-path" class="healing-link">Read Posts</a>
+    </div>
+
+    <div class="healing-card fade-up">
+      <h4>Becoming You Again</h4>
+      <p>Rediscover who you were before the heartbreak and who you’re becoming because of it.</p>
+      <a href="/blog/becoming-you-again" class="healing-link">Explore Stories</a>
+    </div>
+
+    <div class="healing-card fade-up">
+      <h4>Unraveling the Ex Effect</h4>
+      <p>Understand what happened, detach with clarity, and reclaim your energy from the past.</p>
+      <a href="/blog/ex-effect" class="healing-link">Dive In</a>
+    </div>
+  </div>
+</section>
+  <!-- Latest Reads Section -->
+<section id="latest-reads" class="section">
+  <h3 class="section-heading">Latest Reads</h3>
+  <p class="section-subtext">Fresh from the blog, gentle insights, healing advice, and powerful shifts waiting for you. Your transformation is beaconing, </p>
+  
+  <div id="post-container" class="latest-posts">
+    <!-- Blog posts will be injected here dynamically -->
+    Loading posts...
+  </div>
+</section>
+  <!-- Phase Four: Blooming Resources Section -->
+
+<section class="resources-section" id="resources">
+  <h3>Blooming Resources</h3>
+  <p class="resources-intro">Gentle tools to help you heal, reflect, and rebuild; one page, one habit, one day at a time.</p>
+
+  <div class="resources-grid">
+    <div class="resource-card">
+      <img src="https://cdn-icons-png.flaticon.com/512/10065/10065673.png" alt="Journal Icon" class="resource-icon" />
+      <h4>Healing Journal Prompts</h4>
+      <p>Guided prompts to help you reflect, release, and realign after heartbreak.</p>
+      <a href="#" class="download-link">Download PDF</a>
+    </div>
+
+    <div class="resource-card">
+      <img src="https://cdn-icons-png.flaticon.com/512/10065/10065737.png" alt="Checklist Icon" class="resource-icon" />
+      <h4>No-Contact Survival Checklist</h4>
+      <p>A supportive checklist to keep you grounded during the no-contact phase.</p>
+      <a href="#" class="download-link">Download Now</a>
+    </div>
+
+    <div class="resource-card">
+      <img src="https://cdn-icons-png.flaticon.com/512/10164/10164361.png" alt="Growth Icon" class="resource-icon" />
+      <h4>Self-Love Habit Tracker</h4>
+      <p>Track tiny wins, build your confidence, and stay committed to self-love.</p>
+      <a href="#" class="download-link">Get Tracker</a>
+    </div>
+  </div>
+</section>
+  <section class="community-section" id="community">
+  <h3 class="community-heading">Voices from the Blooming Circle</h3>
+  <p class="community-intro">Real stories. Real healing. Hear from others walking this same path and find comfort in the courage to bloom.</p>
+
+  <div class="testimonial-grid">
+    <div class="testimonial-card">
+      <p class="testimonial-text">“I came here after my heart was shattered. I stayed because it reminded me that healing is possible and I’m not alone.”</p>
+      <p class="testimonial-name">— Amina, Nairobi</p>
+    </div>
+    <div class="testimonial-card">
+      <p class="testimonial-text">“Each post feels like it was written for me. It’s more than a blog, it’s been a lifeline.”</p>
+      <p class="testimonial-name">— Roxy, Berlin</p>
+    </div>
+    <div class="testimonial-card">
+      <p class="testimonial-text">“Joining the Blooming Circle gave me the courage to finally let go of what was holding me back.”</p>
+      <p class="testimonial-name">— Thandi, Cape Town</p>
+    </div>
+  </div>
+
+  <a href="/community" class="join-community-btn">Join the Blooming Circle</a>
+</section>
+  <section class="about-author" id="about">
+
+  <div class="author-container">
+
+    <img src="https://drive.google.com/file/d/1-VJqbM3kEBFlTiL1NX6EP8b4ZUPdovOr/view?usp=drive_link" alt="L.M. Kelly" class="author-photo" />
+
+    <div class="author-text">
+
+      <h3>Meet L.M. Kelly</h3>
+
+      <p>I’m not just a writer, I’ve walked through heartbreak, silence, and the journey of rebuilding from the inside out. <strong> Breakup & Bloom</strong> was born from those ashes, to offer you raw truth, gentle strength, and practical tools to bloom beyond heartbreak.</p>
+
+      <p>This space isn’t for perfect people. It’s for the real ones, bruised, brave, and blooming anyway.</p>
+
+      <a href="/about" class="learn-more-btn">Learn More</a>
+
+    </div>
+
+  </div>
+
+</section>
+  <section class="faq-section" id="blooming-faq">
+  <h2 class="faq-heading">Still Wondering?</h2>
+  <p class="faq-subtext">Here’s what others have asked on their path to healing, you might find your answer here too.</p>
+
+  <div class="faq-container">
+    <div class="faq-item">
+      <button class="faq-question">What if I still love my ex?</button>
+      <div class="faq-answer">Love doesn’t vanish on command sadly eveb at the face of breakup. But healing teaches you to honor what was while choosing what is yourself.</div>
+    </div>
+
+    <div class="faq-item">
+      <button class="faq-question">Can I really move on without closure?</button>
+      <div class="faq-answer">Yes. Closure is a self-given gift. You can bloom without the final chapter ,your healing writes the ending, it's all in your control.</div>
+    </div>
+
+    <div class="faq-item">
+      <button class="faq-question">Is no contact the only way?</button>
+      <div class="faq-answer">It’s the most effective path for clarity and regaining power. Not easy,but necessary for peace, growth and perspective.</div>
+    </div>
+
+    <div class="faq-item">
+      <button class="faq-question">How long does healing take?</button>
+      <div class="faq-answer">There’s no timer on grief. But there is growth in every step. You’re not behind, you’re right on time.</div>
+    </div>
+  </div>
+</section>
+
+<style>
+.faq-section {
+  background-color: #fff8f9;
+  padding: 60px 20px;
+  text-align: center;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.faq-heading {
+  font-size: 2rem;
+  color: #b46977;
+  margin-bottom: 10px;
+  font-family: 'Playfair Display', serif;
+}
+
+.faq-subtext {
+  color: #555;
+  font-size: 1rem;
+  margin-bottom: 40px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.faq-container {
+  max-width: 800px;
+  margin: auto;
+  text-align: left;
+}
+
+.faq-item {
+  border-bottom: 1px solid #eee;
+  margin-bottom: 20px;
+}
+
+.faq-question {
+  background: none;
+  border: none;
+  font-size: 1.1rem;
+  color: #b46977;
+  font-weight: bold;
+  padding: 15px 0;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.faq-question:hover {
+  color: #7a3e4a;
+}
+
+.faq-answer {
+  padding: 10px 0 20px;
+  color: #444;
+  display: none;
+  line-height: 1.6;
+}
+
+.faq-question.active + .faq-answer {
+  display: block;
+}
+
+</style>
+
+<script>
+// Toggle FAQ visibility
+document.addEventListener("DOMContentLoaded", function () {
+  const questions = document.querySelectorAll(".faq-question");
+  questions.forEach((q) => {
+    q.addEventListener("click", function () {
+      this.classList.toggle("active");
+      const answer = this.nextElementSibling;
+      answer.style.display = answer.style.display === "block" ? "none" : "block";
+    });
+  });
+});
+</script>
+ <script>
+
+function toggleMenu() {
+
+  const menu = document.querySelector('.nav-menu');
+
+  menu.classList.toggle('open');
+
+}
+
+</script> 
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Breakup & Bloom about?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Breakup & Bloom helps you transform heartbreak into healing and personal growth through expert advice, resources, and community support."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I access the healing guides?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can download free healing guides from our Resources page or sign up for exclusive content via our newsletter."
+      }
+    }
+  ]
+}
+</script>
+<!-- Back to Top Button -->
+
+<a href="#" class="back-to-top"><i class="fas fa-chevron-up"></i></a>
+
+<style>
+
+.back-to-top {
+
+  position: fixed;
+
+  bottom: 30px;
+
+  right: 30px;
+
+  display: none;
+
+  background: #b85c38;
+
+  color: #fff;
+
+  padding: 10px 12px;
+
+  border-radius: 50%;
+
+  z-index: 999;
+
+}
+
+</style>
+
+<script>
+
+  window.addEventListener("scroll", function () {
+
+    const btn = document.querySelector(".back-to-top");
+
+    if (window.scrollY > 300) {
+
+      btn.style.display = "block";
+
+    } else {
+
+      btn.style.display = "none";
+
+    }
+
+  });
+
+</script>
+  <script>
+
+  // Toggle menu for mobile
+
+  document.querySelector('.menu-toggle').addEventListener('click', function() {
+
+    document.querySelector('nav ul').classList.toggle('open');
+
+  });
+
+  // Optional: Smooth submenu toggle on click (for touch devices)
+
+  const menuItems = document.querySelectorAll('nav li > a');
+
+  menuItems.forEach(item => {
+
+    item.addEventListener('click', function(e) {
+
+      const next = this.nextElementSibling;
+
+      if (next && next.classList.contains('submenu')) {
+
+        e.preventDefault();
+
+        next.classList.toggle('open');
+
+      }
+
+    });
+
+  });
+
+</script>
+  <script>
+
+  // Toggle main nav on small screens
+
+  document.querySelector('.menu-toggle').addEventListener('click', function () {
+
+    document.querySelector('.main-menu ul').classList.toggle('open');
+
+  });
+
+  // Optional: Toggle submenu on click (for mobile)
+
+  const menuLinks = document.querySelectorAll('.main-menu > ul > li > a');
+
+  menuLinks.forEach(link => {
+
+    link.addEventListener('click', function (e) {
+
+      const submenu = this.nextElementSibling;
+
+      if (submenu && submenu.classList.contains('submenu')) {
+
+        e.preventDefault(); // prevent link from firing
+
+        submenu.classList.toggle('open');
+
+      }
+
+    });
+
+  });
+
+</script>
+</body>
+  <footer class="site-footer">
+
+ 
+<!-- START: Breakup & Bloom Footer -->
+<style>
+  .bnb-footer {
+    background-color: #fef5f5;
+    padding: 40px 20px;
+    font-family: 'Segoe UI', sans-serif;
+    color: #3a3a3a;
+  }
+
+  .bnb-footer h3 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: #c6538c;
+  }
+
+  .bnb-footer a {
+    color: #555;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 8px;
+    font-size: 14px;
+    transition: 0.2s;
+  }
+
+  .bnb-footer a:hover {
+    color: #c6538c;
+  }
+
+  .bnb-footer .section {
+    margin-bottom: 30px;
+  }
+
+  .bnb-footer .columns {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 30px;
+  }
+
+  .bnb-footer .column {
+    flex: 1 1 200px;
+    min-width: 220px;
+  }
+
+  .bnb-footer .footer-bottom {
+    border-top: 1px solid #e0caca;
+    margin-top: 30px;
+    padding-top: 15px;
+    font-size: 13px;
+    text-align: center;
+  }
+
+  .bnb-footer .social-icons a {
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 16px;
+    color: #c6538c;
+  }
+
+  @media (max-width: 600px) {
+    .bnb-footer .columns {
+      flex-direction: column;
+    }
+  }
+</style>
+<!-- Google AdSense -->
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" crossorigin="anonymous"></script>
+
+<!-- Ad Slot Example -->
+
+<ins class="adsbygoogle"
+
+     style="display:block"
+
+     data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
+
+     data-ad-slot="1234567890"
+
+     data-ad-format="auto"
+
+     data-full-width-responsive="true"></ins>
+
+<script>
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+</script>
+<footer class="bnb-footer">
+  <div class="columns">
+    <div class="column">
+  <h3><a href="https://breakupandbloom.blogspot.com">Breakup & Bloom</a></h3>
+  <p><em>From heartbreak to healing …and blooming beyond.</em></p>
+</div>
+
+    <div class="column">
+      <h3>Quick Access</h3>
+      <a href="https://breakupandbloom.blogspot.com/p/about-me.html">About Me</a>
+      <a href="https://breakupandbloom.blogspot.com/p/connect.html">Connect</a>
+      <a href="https://breakupandbloom.blogspot.com/p/resources.html">Resources</a>
+      <a href="https://breakupandbloom.blogspot.com/p/free-downloads.html">Free Downloads</a>
+      <a href="https://breakupandbloom.blogspot.com/p/books.html">Books by L.M. Kelly</a>
+      <a href="https://breakupandbloom.blogspot.com/p/testimonials.html">Testimonials</a>
+      <a href="https://breakupandbloom.blogspot.com/p/contact-us.html">Contact</a>
+    </div>
+
+    <div class="column">
+      <h3>Shop & Heal</h3>
+      <a href="https://lordess.creator-spring.com/listing/art-of-no-contact-by-l-m-kelly">eBook: Art of No Contact</a>
+      <a href="https://www.amazon.com/ART-NO-CONTACT-Regaining-Power/dp/B0CJL3HN3B">Hardcover – Amazon</a>
+      <a href="https://www.googleapis.com/drive/v3/files/1oMm-8YNORBfoesrVGwFKOIvG1RSMkPww?alt=media&key=AIzaSyCQhn7nPFOBcRsZR8_DJQXopsK3HEZNWNU">Free Healing Guides</a>
+    </div>
+
+    <div class="column">
+      <h3>Follow Us</h3>
+      <div class="social-icons">
+        <a href="https://youtube.com/@breakupandbloom?si=KVVEyLYOU65138eC" target="_blank">YouTube</a>
+        <a href="https://www.pinterest.com/breakupandbloom" target="_blank">Pinterest</a>
+      </div>
+      <h3>Legal</h3>
+      <a href="https://breakupandbloom.blogspot.com/p/terms-and-conditions-and-privacy-policy.html">Privacy & Terms</a>
+      <a href="https://breakupandbloom.blogspot.com/p/advertise-with-us.html">Advertise</a>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+   A Lynscal Production. © 2025 Breakup & Bloom. All rights reserved. | Crafted by L.M Kelly
+  </div>
+</footer>
+
+<!-- Blogger JSON Feed Script -->
+<script>
+  fetch("https://breakupandbloom.blogspot.com/feeds/posts/default?alt=json&max-results=5")
+    .then(response => response.json())
+    .then(data => {
+      const posts = data.feed.entry;
+      const container = document.getElementById('latest-posts');
+      posts.forEach(post => {
+        const title = post.title.$t;
+        const link = post.link.find(l => l.rel === 'alternate').href;
+        const a = document.createElement('a');
+        a.href = link;
+        a.textContent = title;
+        a.target = '_blank';
+        container.appendChild(a);
+      });
+    });
+</script>
+<!-- END: Breakup & Bloom Footer -->
+  </footer>
+
+  </html>
+    Add initial Blogger theme XML for Breakup & Bloom
