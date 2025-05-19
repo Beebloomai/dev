@@ -4,7 +4,10 @@ from lxml import etree
 
 def validate_xml(file_path):
     try:
-        tree = etree.parse(file_path)
+        # Secure parser with XXE protection
+        safe_parser = etree.XMLParser(resolve_entities=False, no_network=True, dtd_validation=False)
+        
+        tree = etree.parse(file_path, parser=safe_parser)
         root = tree.getroot()
 
         # Example checks
@@ -22,11 +25,11 @@ def validate_xml(file_path):
         for link in links:
             href = link.get('href', '')
             if href == '' or href == '/':
-                print(f"Warning: Potential broken link at {etree.tostring(link, pretty_print=True)}")
+                print(f"Warning: Potential broken link at {etree.tostring(link, pretty_print=True).decode()}")
 
-        print("XML validation passed!")
+        print("✅ XML validation passed!")
     except Exception as e:
-        print(f"Validation failed: {e}")
+        print(f"❌ Validation failed: {e}")
         sys.exit(1)
 
 if __name__ == "__main__":

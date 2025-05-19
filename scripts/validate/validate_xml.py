@@ -1,6 +1,6 @@
 import sys
-import xml.etree.ElementTree as ET
 from pathlib import Path
+import defusedxml.ElementTree as ET
 
 def validate_xml_file(file_path):
     try:
