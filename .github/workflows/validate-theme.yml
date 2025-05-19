@@ -1,0 +1,15 @@
+# Breakup & Bloom Blogger Theme — User Guide
+
+## How to Test the Theme
+
+1. Download the theme from `/themes/breakup-and-bloom.xml`.
+2. Go to your Blogger dashboard.
+3. Navigate to `Theme` → Click the 3 dots → `Restore`.
+4. Upload the XML file.
+5. Refresh your blog to see the changes.
+
+## Tips
+
+- Always validate the XML before uploading.
+- Replace all href="#" with real links or `data:` links.
+- Customize logos, titles, and colors inside the XML comments.
