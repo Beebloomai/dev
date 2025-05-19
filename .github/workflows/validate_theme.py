@@ -1,10 +1,11 @@
 import sys
 import argparse
 from lxml import etree
+import lxml.etree
 
 def validate_xml(file_path):
     try:
-        tree = etree.parse(file_path)
+        tree = etree.parse(file_path, parser=lxml.etree.XMLParser(resolve_entities=False))
         root = tree.getroot()
 
         # Example checks
