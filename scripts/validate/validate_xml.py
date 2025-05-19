@@ -1,10 +1,11 @@
 import sys
 import xml.etree.ElementTree as ET
 from pathlib import Path
+import defusedxml.ElementTree
 
 def validate_xml_file(file_path):
     try:
-        tree = ET.parse(file_path)
+        tree = defusedxml.ElementTree.parse(file_path)
         print(f"✅ XML parsed successfully: {file_path}")
     except ET.ParseError as e:
         print(f"❌ XML parsing failed: {file_path}\nError: {e}")
