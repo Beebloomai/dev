@@ -1,16 +1,26 @@
-# Breakup & Bloom Blogger Theme — User Guide
 
-## How to Test the Theme
+name: XML Theme Validation
 
-1. Download the theme from `/themes/breakup-and-bloom.xml`.
-2. Go to your Blogger dashboard.
-3. Navigate to `Theme` → Click the 3 dots → `Restore`.
-4. Upload the XML file.
-5. Refresh your blog to see the changes.
+on:
+  push:
+    paths:
+      - 'themes/**.xml'
+  pull_request:
+    paths:
+      - 'themes/**.xml'
 
-## Tips
+jobs:
+  validate-xml:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
 
-- Always validate the XML before uploading.
-- Replace all href="#" with real links or `data:` links.
-- Customize logos, titles, and colors inside the XML comments.
-# 📚 Breakup & Bloom Theme Documentation
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+
+      - name: Run XML Validation
+        run: |
+          python scripts/validate/validate_xml.py themes/breakup-and-bloom.xml
